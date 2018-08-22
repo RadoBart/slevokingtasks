@@ -1,4 +1,4 @@
-# slevokingtask
+# slevokingtasks
 
 ## Setup
 To test the application you need to:
